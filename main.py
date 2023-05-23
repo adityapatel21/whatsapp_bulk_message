@@ -28,16 +28,7 @@ search_box = WebDriverWait(browser, 5000).until(
 )
 
 
-message = '''Hello,
-We have received your job application for the post of *Faculty at SpeEdLabs*.
-▫️Job Location- *Indore / Ghaziabad* [NO WORK FROM HOME]
-▫️Subjects available- Physics, Chemistry, Biology, Maths.
-▫️Full-time CTC (10am-7pm or 9am-6pm)- 1.8 LPA - 3.6 LPA.
-▫️Part-time CTC- 1.8 LPA- 2.8 LPA 
-[ _Note- Only morning part-time opportunity is available in Indore, and evening part-time opportunity is available for Ghaziabad_ ]
-▫️Experience required- Minimum 2 years.
-▫️Grades available- 6-10th, 11-12th.
-▫️If you are interested, fill your information in the given form- https://forms.gle/NRYAUbG81HBannbo7 
+message = ''' message message message message message message message message message message message message message message message 
 '''
 
 with open("numbers.csv", 'r', encoding="utf-8-sig") as file:
